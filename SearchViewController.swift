@@ -2,7 +2,6 @@
 //  SearchViewController.swift
 //  AR
 //
-//  Created by 최유진 on 29/10/2019.
 //  Copyright © 2019 M-33. All rights reserved.
 //
 
